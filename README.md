@@ -97,9 +97,9 @@ Python 기반 Selenium, BeautifulSoup을 활용한 채용 공고 크롤러 제�
 
 <h2>🏆 Activities</h2>
 <ul>
+  <li><strong>Next.js 스터디 진행 중</strong> – 사이드 프로젝트(VOCAI) (2025.06 ~ )</li>
   <li><strong>스파르타 Node.js 부트캠프 7기</strong> – 최우수상 수상 (2024.11 ~ 2025.03)</li>
   <li><strong>캐나다 워킹홀리데이</strong> – 의사소통/적응력 향상, 실용 영어 습득 (2023.10 ~ 2024.10)</li>
-  <li><strong>Next.js 스터디 진행 중</strong> – 사이드 프로젝트(VOCAI) (2025.06 ~ )</li>
 </ul>
 
 <hr>
