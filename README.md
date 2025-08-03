@@ -30,7 +30,7 @@
 
 <h1>👋 안녕하세요, 이유민입니다!</h1>
 <p><strong>서버 / 백엔드 개발자</strong><br>
-Node.js · C++ · Next.js · Redis · PostgreSQL · MySQL · Docker<br>
+Node.js · Next.js · Python · C · C++ · Redis · PostgreSQL · MySQL · Docker · AWS(EC2,RDS)<br>
 끊임없이 배우며 성장하는 개발자입니다.</p>
 
 <hr>
