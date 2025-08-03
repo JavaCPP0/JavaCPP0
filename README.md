@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Youmin Lee</h1>
-<h3 align="center">I want to become a great server developer who continues to grow.</h3>
+<h3 align="center">I want to become a great backend developer who continues to grow.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javacpp0&label=Profile%20views&color=0e75b6&style=flat" alt="javacpp0" /> </p>
 
