@@ -66,7 +66,7 @@ Python 기반 Selenium, BeautifulSoup을 활용한 채용 공고 크롤러 제�
 - 게시판 CRUD 및 JWT 기반 인가 처리<br>
 - 실시간 화상면접(WebRTC), 커뮤니티 등 다기능 통합 플랫폼
 </p>
-<p><strong>기술 스택:</strong> React, TypeScript, Node.js, PostgreSQL, MongoDB(예정)</p>
+<p><strong>기술 스택:</strong> Next.js, TypeScript, Node.js, PostgreSQL, Docker(예정)</p>
 <p>
 📌 트러블슈팅:<br>
 <a href="https://javacpp.tistory.com/151" target="_blank">Next.js params 경고 해결</a><br>
