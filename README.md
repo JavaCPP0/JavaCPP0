@@ -63,8 +63,10 @@ Python 기반 Selenium, BeautifulSoup을 활용한 채용 공고 크롤러 제�
 <p>
 <a href="https://github.com/team-VOCAI/vocai-app/tree/dev" target="_blank">🔗 GitHub</a><br>
 - AI 면접관 (Gemini API 기반) 질문 및 피드백 시스템 구현<br>
+- AI 면접 대화방 프론트 제작<br>
+- 사용자의 음성 텍스트로 전사하는 API 제작<br>
 - 게시판 CRUD 및 JWT 기반 인가 처리<br>
-- 실시간 화상면접(WebRTC), 커뮤니티 등 다기능 통합 플랫폼
+- 실시간 화상면접(WebRTC), 커뮤니티 등 다기능 통합 플랫폼<br>
 </p>
 <p><strong>기술 스택:</strong> Next.js, TypeScript, Node.js, PostgreSQL, Docker(예정)</p>
 <p>
