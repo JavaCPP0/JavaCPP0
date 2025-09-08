@@ -72,8 +72,8 @@ Python 기반 Selenium, BeautifulSoup을 활용한 채용 공고 크롤러 제�
 <p>
 📌 트러블슈팅:<br>
 <a href="https://javacpp.tistory.com/151" target="_blank">Next.js params 경고 해결</a><br>
-<a href="https://javacpp.tistory.com/155" target="_blank">Edge Runtime + Prisma 충돌 해결</a>
-<a>AI API 응답시간으로 인한 떨어진 사용자경험 개선</a>
+<a href="https://javacpp.tistory.com/155" target="_blank">Edge Runtime + Prisma 충돌 해결</a><br>
+<a>AI API 응답시간으로 인한 떨어진 사용자경험 개선</a><br>
 </p>
 
 <h3>Ducktopia – 멀티플레이 로그라이크 게임 (2025.02 ~ 2025.03)</h3>
