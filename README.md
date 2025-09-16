@@ -124,7 +124,7 @@ DevOps – Docker, Docker Compose · API Docs – Swagger</p>
   <li>패킷 밀림 이슈 대응: 개별 업데이트 → 주기적 배치 전송으로 최적화, 몬스터 동기화에도 적용</li>
   <li>팀 부하 테스트: 동시 이동 시 패킷 수 급증 문제 분석·완화, 임계점 파악</li>
 </ul>
-<p><strong>스택</strong>: Node.js, Redis, MySQL, AWS EC2/ECS/NLB, Docker, Unity(C#)</p>
+<p><strong>스택</strong>: Node.js, Redis, MySQL, AWS EC2/RDS, Docker, Unity(C#)</p>
 
 <h3>졸업 프로젝트 – 쇼핑몰 판매 데이터 분석 <small>(2021.08 ~ 2021.10)</small></h3>
 <ul>
