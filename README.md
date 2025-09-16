@@ -70,7 +70,7 @@ Python 기반 Selenium·Requests·BeautifulSoup·Playwright를 사용한 채용 
 
 <h3>VOCAI – AI 모의면접 웹 서비스 <small>(2025.05 ~ 2025.09)</small></h3>
 <p>
-<a href="https://github.com/team-VOCAI/vocai-app/tree/dev" target="_blank" rel="noopener">🔗 GitHub</a>
+<a href="https://github.com/team-VOCAI/vocai-app" target="_blank" rel="noopener">🔗 GitHub</a>
 </p>
 <p>면접 준비 전 과정을 지원하는 온라인 플랫폼: 커뮤니티, AI 면접 연습, 화상 모의면접</p>
 <ul>
