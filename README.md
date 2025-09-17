@@ -46,7 +46,6 @@ Node.js · Next.js · TypeScript · Python · C · C++ · Redis · PostgreSQL ·
 
 <p>
 📬 Contact<br>
-Tel: <a href="tel:+821092477819">010-9247-7819</a><br>
 Email: <a href="mailto:youmin0107@naver.com">youmin0107@naver.com</a><br>
 Blog: <a href="https://javacpp.tistory.com" target="_blank" rel="noopener">javacpp.tistory.com</a><br>
 GitHub: <a href="https://github.com/JavaCPP0" target="_blank" rel="noopener">github.com/JavaCPP0</a>
