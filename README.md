@@ -56,7 +56,7 @@ GitHub: <a href="https://github.com/JavaCPP0" target="_blank" rel="noopener">git
 <h2>💼 Experiences</h2>
 
 <h3>seeso (인턴)</h3>
-<p><em>2025.05 ~ 2025.06 (2개월)</em><br>
+<p><em>2025.05 ~ 2025.06 (1개월)</em><br>
 Python 기반 Selenium·Requests·BeautifulSoup·Playwright를 사용한 채용 공고 크롤러 제작 및 기존 크롤러 유지보수</p>
 <ul>
   <li>회사별 채용 공고 리스트/상세 파싱 로직 설계 및 안정화</li>
