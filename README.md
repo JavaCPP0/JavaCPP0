@@ -38,7 +38,8 @@ Node.js · Next.js · TypeScript · Python · C · C++ · Redis · PostgreSQL ·
 <h2>🧑‍💻 About Me</h2>
 <ul>
   <li>데이터 분석(파이썬)부터 Node.js 기반 실시간/웹 서비스까지 다양한 경험</li>
-  <li>부트캠프·스터디·워킹홀리데이를 통해 실전 감각과 실용 영어 역량 확보</li>
+  <li>부트캠프·스터디를 통해 실전 감각과 백엔드 기술 역량 확보</li>
+  <li>워킹홀리데이를 실용 영어 역량 확보</li>
   <li>컨테이너·도커 컴포즈를 활용한 로컬/개발 환경 구성 및 API 문서화(Swagger)</li>
 </ul>
 
