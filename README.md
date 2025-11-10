@@ -32,7 +32,7 @@
 <p>서버 / 백엔드 개발자<br>
 Node.js · Next.js · TypeScript · Python · C · C++ · Redis · PostgreSQL · MySQL · Docker · AWS(EC2/RDS)</p>
 <p>문제 해결을 즐기고 도전을 두려워하지 않습니다. 컴포트존을 벗어나려 노력하며 빠르게 적응하며 꾸준히 개선하는 개발자입니다.</p>
-
+<p>제 기준의 좋은 개발자는 새로운 기술들이 빠르게 쏟아지는 세상에 도태되지 않는 개발자라고 생각합니다. 도태되지 않는 개발자가 되겠습니다.</p>
 <hr>
 
 <h2>🧑‍💻 About Me</h2>
