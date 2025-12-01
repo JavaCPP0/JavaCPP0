@@ -153,6 +153,5 @@ DevOps – Docker, Docker Compose · API Docs – Swagger</p>
 <ul>
   <li>정보처리기사 실기 합격 (2023.06)</li>
   <li>운전면허 2종 보통 (2021.06)</li>
-  <li>영어: 일상 회화 가능</li>
 </ul>
 
