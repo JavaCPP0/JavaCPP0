@@ -135,6 +135,7 @@ DevOps – Docker, Docker Compose · API Docs – Swagger</p>
 
 <h2>🏆 Activities</h2>
 <ul>
+  <li>Yurae 프로젝트(2025.12 ~ ): AI 기반 문화유산 큐레이션 플랫폼 제작</li>
   <li>VOCAI 프로젝트(2025.05 ~ 2025.09): 도커 컨테이너화 및 컴포즈로 DB 연동 빌드</li>
   <li>스터디그룹(2025.03 ~ 2025.05): C++ 추가 학습</li>
   <li>스파르타 Node.js 부트캠프 7기 – 팀 최우수상 (2024.11 ~ 2025.03)</li>
