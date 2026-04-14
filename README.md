@@ -67,6 +67,7 @@ Python 기반 Selenium·Requests·BeautifulSoup·Playwright를 사용한 채용 
 <h2>🧪 Projects</h2>
 
 <h3>YURAE – AI 유물/유적지 추천 서비스 <small>(2025.12 ~)</small></h3>
+<p>간단한 여행유형 검사를 통한 AI 유물/유적지 추천 서비스, 굿즈 판매,</p>
 
 <h3>VOCAI – AI 모의면접 웹 서비스 <small>(2025.05 ~ 2025.09)</small></h3>
 <p>
