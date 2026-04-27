@@ -69,11 +69,9 @@ Python 기반 Selenium·Requests·BeautifulSoup·Playwright를 사용한 채용 
 <h3>YURAE – AI 유물/유적지 추천 서비스 <small>(2025.12 ~)</small></h3>
 <p>간단한 여행유형 검사를 통한 AI 유물/유적지 추천 서비스, 굿즈 판매,</p>
 <ul>
-  <li>게시판
+  <li> 자연어 기반 검색
     <ul>
-      <li>App Router 기반 디렉토리 개편: <code>src/app/boards/[boardId]/…</code> 구조로 목록/상세/작성 분리, 보드 단위 검색</li>
-      <li>JWT 인가 적용(수정/삭제 보호), API 라우트 정리(<code>/api/boards/[boardId]/posts</code> 등)</li>
-      <li>Prisma 스키마 정비 및 마이그레이션 관리</li>
+      <li>설명</li>
     </ul>
   </li>
 </ul>
