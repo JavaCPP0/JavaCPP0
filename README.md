@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javacpp0&label=Profile%20views&color=0e75b6&style=flat" alt="javacpp0" /> </p>
 
-- 🌱 I’m currently learning **railway,cloudflare and supabase!!**
+- 🌱 I’m currently learning **railway,cloudflare and supabase!**
 
 - 📝 I regularly write articles on [https://javacpp.tistory.com/](https://javacpp.tistory.com/)
 
